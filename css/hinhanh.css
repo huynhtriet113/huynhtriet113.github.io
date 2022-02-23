@@ -1,0 +1,4 @@
+.hinhanh>img:hover{
+    transform: scale(1.2);
+    display:block;transition: all .3s ease;
+}

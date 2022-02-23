@@ -1,0 +1,14 @@
+textarea{
+    width:800px;
+    height:150px;
+}
+label>h2{
+    font-family:'Segoe UI', Tahoma, Verdana,;
+}
+.form-control:focus{
+    background-color: rgb(183, 238, 221);
+    box-shadow: 0 0 3px rgb(164, 129, 245);
+    border: 1px solid rgb(150, 229, 231);
+    color:rgb(4, 19, 32);
+    font-size:large;
+}
